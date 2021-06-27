@@ -1,2 +1,3 @@
 # CodingBat
- Python exercises
+ https://codingbat.com/
+ Code Practice
